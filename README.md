@@ -145,7 +145,7 @@ To reenable ICMP traffic we navigate back to the NSG (Network Security Group) in
 </p>
 <br />
 <p>
- To halt the perpetual ping we simply input ctrl + c 
+ To halt the perpetual ping we simply input ctrl + C. 
 </p>
 <p>
   
@@ -163,7 +163,7 @@ To reenable ICMP traffic we navigate back to the NSG (Network Security Group) in
 </p>
 <br />
 <p>
-  Next, we'll open the command line and 'SSH into' our Ubuntu (Linux) VM and use the password we assigned when creating the VM. The password will be invisible but the input is valid. Note the SSH traffic after signing in. 
+  Next, we'll open the command line and 'SSH into' our Ubuntu (Linux) VM and use the password we assigned when creating the Ubuntu VM. The password will be invisible but the input is valid. Note the SSH traffic after signing in. 
 </p>
 <p>
   
